@@ -1,0 +1,19 @@
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  width: 70vw;
+  margin: 50px auto;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  max-width: 600px;
+}
